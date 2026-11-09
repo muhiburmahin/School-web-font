@@ -101,3 +101,4 @@ The proxy sets these on HTML responses. `CSP_REPORT_ONLY=true` sends the policy 
 | Cross-Origin-Resource-Policy | `same-origin` | Other sites cannot embed these responses as resources. |
 
 `X-Powered-By` is disabled. These headers reduce what a browser will do with a compromised response. They do not replace backend authentication, CSRF, or authorization.
+# School-web-font
